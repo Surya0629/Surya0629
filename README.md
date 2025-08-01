@@ -1,6 +1,6 @@
 ### Hi there, I'm Surya Pratap Singh! 👋
 
-I'm a 3rd-year Data Science student based in ABESIT Ghaziabd. Here are a few things about me:
+I'm a 4th-year Data Science student based in ABESIT Ghaziabd. Here are a few things about me:
 
 - 🔭 I’m currently a student and exploring various aspects of Data Science and Web Development.
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA) along with web development technologies.
